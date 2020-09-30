@@ -79,6 +79,12 @@ target/
 
 # IPython
 profile_default/
+SandDroidSuccessed
+SandDroidLog
+SandDroidFailed
+SandDroidDecompress
+resources
+SandDroidDatabase
 ipython_config.py
 
 # pyenv
@@ -127,3 +133,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/

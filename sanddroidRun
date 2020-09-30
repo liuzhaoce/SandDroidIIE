@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python /home/santoku/workspace/SandDroid/sanddroid.py -d /home/santoku/SandDroidFolders/SandDroidUploads -o /home/santoku/sanddroid/SandDroidReports -p santoku --sdkPath /usr/share/adt-bundle/sdk -r -s -L -n 1

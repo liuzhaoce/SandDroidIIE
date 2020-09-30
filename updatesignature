@@ -1,0 +1,4 @@
+#!/bin/sh
+
+wget ftp://ftp.lionic.com/aegiscan --ftp-user=scannerpartner1 --ftp-password=bhu2\$3e9 -O /home/santoku/workspace/SandDroid/resources/tools/aegis/aegiscan
+
